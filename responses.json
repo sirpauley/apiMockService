@@ -1,0 +1,24 @@
+{
+    "GET_authentication": {
+        "token": "abcdefghijklmnopqrstuvwxyz1234567890"
+    },
+    "GET_funeral": {
+        "policy": 200067,
+        "names": "johnny",
+        "location": {
+            "town": "LA",
+            "country": "US and A"
+        }
+    },
+    "GET_funeral_policy": {
+        "policy": 200067
+    },
+    "GET_funeral_clientName_johnny": {
+        "name": "Johnny",
+        "surname": "hendriks"
+    },
+    "POST_funeral_clientName_johnny": {
+        "name": "Johnny",
+        "surname": "hendriks"
+    }
+}
